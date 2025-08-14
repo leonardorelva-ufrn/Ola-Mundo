@@ -7,4 +7,5 @@ int main(void){
     printf("    BEM VINDO AO MEU MUNDO!    ", "\n");
     printf("                               ", "\n");
 
+    return(0);
 }
