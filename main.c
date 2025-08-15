@@ -22,8 +22,8 @@ void tela_inicial(void){
     printf("|             SISTEMA DE GESTÃO PARA HOTÉIS E POUSADAS             |");
     printf("|                                                                  |");
     printf("|            1- Cliente                                            |");
-    printf("|            2- Quartos                                            |");
-    printf("|            3- Serviços                                           |");
+    printf("|            2- Hospedagem                                         |");
+    printf("|            3- Alimentação                                        |");
     printf("|            4- Relatório                                          |");
     printf("|            0- Sair                                               |");
     printf("|                                                                  |");
